@@ -1,3 +1,73 @@
+nova (2011.3+201111241654-0mit1~12.gbpd0b0f7) UNRELEASED; urgency=low
+
+  ** SNAPSHOT build @d0b0f76b2b90866b20c2a7cd4d230308972d512a **
+
+  [ Asbjørn Sannes ]
+  * [770aabb5] Fix deletion of instances without fixed ips.
+
+  [ Dan Prince ]
+  * [2a09eb2d] Fix file injection for OSAPI rebuilds. Fixes 881649.
+
+  [ James E. Blair ]
+  * [2e85c053] Add .gitreview config file for gerrit.
+
+  [ Aaron Lee ]
+  * [8405b63a] Adding bulk create fixed ips. The true issue here is the creation of IPs in the DB that are not currently used(we are building the entire block). This fix is just a bandaid, but it does cut ~25 seconds off of the quantum tests on my laptop.
+
+  [ Soren Hansen ]
+  * [b0821f25] Retry failed SQL connections (LP #876663)
+
+  [ Alex Meade ]
+  * [2aa5bb96] Updated NoAuth to account for requests ending in /
+
+  [ Brad Hall ]
+  * [029ee302] Make sure networks returned from get_instance_nw_info have a label
+
+  [ Ewan Mellor ]
+  * [6b5a9414] Bug 884527: ajax_console_proxy_port needs to be an integer
+
+  [ Unmesh Gurjar ]
+  * [e632d21a] Fix lp:861160 -- newly created network has no uuid
+
+  [ Johannes Erdfelt ]
+  * [bf439484] Fix KeyError when passed unknown format of time
+
+  [ Vishvananda Ishaya ]
+  * [17268cab] Add local storage of context for logging
+
+  [ Ewan Mellor ]
+  * [a5e0dee1] Bug 884863: nova logs everything to syslog twice
+  * [9a00aea7] Bug #884534: nova-ajax-console-proxy crashes on shutdown
+
+  [ Brian Waldon ]
+  * [81d95678] exception.KeypairNotFound usage correction
+
+  [ Joe Gordon ]
+  * [be3f35b9] fix bug 816630
+
+  [ Ewan Mellor ]
+  * [e2b450c0] Log the exception when we get one.
+
+  [ Brad Hall ]
+  * [938292fc] Change floating-snat to float-snat
+  * [95b56105] Fix for launchpad bug #882568
+
+  [ Derek Higgins ]
+  * [27b0ff5c] Undefine libvirt saved instances
+
+  [ Johannes Erdfelt ]
+  * [f286a4b2] Log original dropped exception when a new exception occurs
+
+  [ Yuriy Taraday ]
+  * [3f0196a2] Fix exception reraising in volume manager.
+
+  [ Vishvananda Ishaya ]
+  * [d0b0f76b] Make run instances respect availability zone
+
+  [ Managed I.T. CI ]
+
+ -- Managed I.T. CI <ci@managedit.ie>  Thu, 24 Nov 2011 16:54:53 +0000
+
 nova (2011.3+201111241650-0mit1~12.gbpd0b0f7) UNRELEASED; urgency=low
 
   ** SNAPSHOT build @d0b0f76b2b90866b20c2a7cd4d230308972d512a **

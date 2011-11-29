@@ -1,4 +1,15 @@
-nova (2011.3+20111128-0mit1~27.gbpd0b0f7) oneiric; urgency=low
+nova (2011.3+20111130~1910-0mit1~28.gbp1e3b88) oneiric; urgency=high
+
+  ** SNAPSHOT build @1e3b88ba20b9f9ab925ecd1238845adbc0157cb1 **
+
+  [ Vishvananda Ishaya ]
+  * [1e3b88ba] Makes rpc_allocate_fixed_ip return properly
+
+  [ Managed I.T. CI ]
+
+ -- Managed I.T. CI <ci@managedit.ie>  Tue, 29 Nov 2011 19:10:50 +0000
+
+nova (2011.3+20111128-0mit1~27.gbpd0b0f7) oneiric; urgency=high
 
   ** SNAPSHOT build @d0b0f76b2b90866b20c2a7cd4d230308972d512a **
 
@@ -6,7 +17,7 @@ nova (2011.3+20111128-0mit1~27.gbpd0b0f7) oneiric; urgency=low
 
  -- Managed I.T. CI <ci@managedit.ie>  Mon, 28 Nov 2011 20:34:38 +0000
 
-nova (2011.3+20111128-0mit1~26.gbpd0b0f7) oneiric; urgency=low
+nova (2011.3+20111128-0mit1~26.gbpd0b0f7) oneiric; urgency=high
 
   ** SNAPSHOT build @d0b0f76b2b90866b20c2a7cd4d230308972d512a **
 
@@ -14,7 +25,7 @@ nova (2011.3+20111128-0mit1~26.gbpd0b0f7) oneiric; urgency=low
 
  -- Managed I.T. CI <ci@managedit.ie>  Mon, 28 Nov 2011 19:36:46 +0000
 
-nova (2011.3+20111128-0mit1~24.gbpd0b0f7) oneiric; urgency=low
+nova (2011.3+20111128-0mit1~24.gbpd0b0f7) oneiric; urgency=high
 
   ** SNAPSHOT build @d0b0f76b2b90866b20c2a7cd4d230308972d512a **
 
@@ -22,7 +33,7 @@ nova (2011.3+20111128-0mit1~24.gbpd0b0f7) oneiric; urgency=low
 
  -- Managed I.T. CI <ci@managedit.ie>  Mon, 28 Nov 2011 15:56:48 +0000
 
-nova (2011.3+201111281526-0mit1~21.gbpd0b0f7) oneiric; urgency=low
+nova (2011.3+201111281526-0mit1~21.gbpd0b0f7) oneiric; urgency=high
 
   ** SNAPSHOT build @d0b0f76b2b90866b20c2a7cd4d230308972d512a **
 
@@ -30,7 +41,7 @@ nova (2011.3+201111281526-0mit1~21.gbpd0b0f7) oneiric; urgency=low
 
  -- Managed I.T. CI <ci@managedit.ie>  Mon, 28 Nov 2011 15:26:58 +0000
 
-nova (2011.3+201111241756-0mit1~19.gbpd0b0f7) oneiric; urgency=low
+nova (2011.3+201111241756-0mit1~19.gbpd0b0f7) oneiric; urgency=high
 
   ** SNAPSHOT build @d0b0f76b2b90866b20c2a7cd4d230308972d512a **
 
@@ -38,7 +49,7 @@ nova (2011.3+201111241756-0mit1~19.gbpd0b0f7) oneiric; urgency=low
 
  -- Managed I.T. CI <ci@managedit.ie>  Thu, 24 Nov 2011 17:56:12 +0000
 
-nova (2011.3+201111241752-0mit1~18.gbpd0b0f7) oneiric; urgency=low
+nova (2011.3+201111241752-0mit1~18.gbpd0b0f7) oneiric; urgency=high
 
   ** SNAPSHOT build @d0b0f76b2b90866b20c2a7cd4d230308972d512a **
 
@@ -46,7 +57,7 @@ nova (2011.3+201111241752-0mit1~18.gbpd0b0f7) oneiric; urgency=low
 
  -- Managed I.T. CI <ci@managedit.ie>  Thu, 24 Nov 2011 17:52:59 +0000
 
-nova (2011.3+201111241745-0mit1~17.gbpd0b0f7) oneiric; urgency=low
+nova (2011.3+201111241745-0mit1~17.gbpd0b0f7) oneiric; urgency=high
 
   ** SNAPSHOT build @d0b0f76b2b90866b20c2a7cd4d230308972d512a **
 
@@ -54,7 +65,7 @@ nova (2011.3+201111241745-0mit1~17.gbpd0b0f7) oneiric; urgency=low
 
  -- Managed I.T. CI <ci@managedit.ie>  Thu, 24 Nov 2011 17:45:20 +0000
 
-nova (2011.3+201111241734-0mit1~16.gbpd0b0f7) oneiric; urgency=low
+nova (2011.3+201111241734-0mit1~16.gbpd0b0f7) oneiric; urgency=high
 
   ** SNAPSHOT build @d0b0f76b2b90866b20c2a7cd4d230308972d512a **
 
@@ -62,7 +73,7 @@ nova (2011.3+201111241734-0mit1~16.gbpd0b0f7) oneiric; urgency=low
 
  -- Managed I.T. CI <ci@managedit.ie>  Thu, 24 Nov 2011 17:34:12 +0000
 
-nova (2011.3+201111241724-0mit1~15.gbpd0b0f7) oneiric; urgency=low
+nova (2011.3+201111241724-0mit1~15.gbpd0b0f7) oneiric; urgency=high
 
   ** SNAPSHOT build @d0b0f76b2b90866b20c2a7cd4d230308972d512a **
 
@@ -132,7 +143,7 @@ nova (2011.3+201111241724-0mit1~15.gbpd0b0f7) oneiric; urgency=low
 
  -- Managed I.T. CI <ci@managedit.ie>  Thu, 24 Nov 2011 17:24:28 +0000
 
-nova (2011.3+201111241710-0mit1~14.gbpd0b0f7) oneiric; urgency=low
+nova (2011.3+201111241710-0mit1~14.gbpd0b0f7) oneiric; urgency=high
 
   ** SNAPSHOT build @d0b0f76b2b90866b20c2a7cd4d230308972d512a **
 
@@ -202,7 +213,7 @@ nova (2011.3+201111241710-0mit1~14.gbpd0b0f7) oneiric; urgency=low
 
  -- Managed I.T. CI <ci@managedit.ie>  Thu, 24 Nov 2011 17:10:43 +0000
 
-nova (2011.3+201111241708-0mit1~13.gbpd0b0f7) oneiric; urgency=low
+nova (2011.3+201111241708-0mit1~13.gbpd0b0f7) oneiric; urgency=high
 
   ** SNAPSHOT build @d0b0f76b2b90866b20c2a7cd4d230308972d512a **
 
@@ -272,7 +283,7 @@ nova (2011.3+201111241708-0mit1~13.gbpd0b0f7) oneiric; urgency=low
 
  -- Managed I.T. CI <ci@managedit.ie>  Thu, 24 Nov 2011 17:08:30 +0000
 
-nova (2011.3+201111241654-0mit1~12.gbpd0b0f7) oneiric; urgency=low
+nova (2011.3+201111241654-0mit1~12.gbpd0b0f7) oneiric; urgency=high
 
   ** SNAPSHOT build @d0b0f76b2b90866b20c2a7cd4d230308972d512a **
 
@@ -342,7 +353,7 @@ nova (2011.3+201111241654-0mit1~12.gbpd0b0f7) oneiric; urgency=low
 
  -- Managed I.T. CI <ci@managedit.ie>  Thu, 24 Nov 2011 16:54:53 +0000
 
-nova (2011.3+201111241650-0mit1~12.gbpd0b0f7) oneiric; urgency=low
+nova (2011.3+201111241650-0mit1~12.gbpd0b0f7) oneiric; urgency=high
 
   ** SNAPSHOT build @d0b0f76b2b90866b20c2a7cd4d230308972d512a **
 
@@ -412,7 +423,7 @@ nova (2011.3+201111241650-0mit1~12.gbpd0b0f7) oneiric; urgency=low
 
  -- Managed I.T. CI <ci@managedit.ie>  Thu, 24 Nov 2011 16:50:46 +0000
 
-nova (2011.3+201111241649-0mit1~12.gbpd0b0f7) oneiric; urgency=low
+nova (2011.3+201111241649-0mit1~12.gbpd0b0f7) oneiric; urgency=high
 
   ** SNAPSHOT build @d0b0f76b2b90866b20c2a7cd4d230308972d512a **
 
@@ -482,7 +493,7 @@ nova (2011.3+201111241649-0mit1~12.gbpd0b0f7) oneiric; urgency=low
 
  -- Managed I.T. CI <ci@managedit.ie>  Thu, 24 Nov 2011 16:49:24 +0000
 
-nova (2011.3+201111241604-0mit1~12.gbpd0b0f7) oneiric; urgency=low
+nova (2011.3+201111241604-0mit1~12.gbpd0b0f7) oneiric; urgency=high
 
   ** SNAPSHOT build @d0b0f76b2b90866b20c2a7cd4d230308972d512a **
 
@@ -552,7 +563,7 @@ nova (2011.3+201111241604-0mit1~12.gbpd0b0f7) oneiric; urgency=low
 
  -- Managed I.T. CI <ci@managedit.ie>  Thu, 24 Nov 2011 16:46:53 +0000
 
-nova (2011.3+201111241604-0mit1~12.gbpd0b0f7) oneiric; urgency=low
+nova (2011.3+201111241604-0mit1~12.gbpd0b0f7) oneiric; urgency=high
 
   ** SNAPSHOT build @d0b0f76b2b90866b20c2a7cd4d230308972d512a **
 
@@ -622,7 +633,7 @@ nova (2011.3+201111241604-0mit1~12.gbpd0b0f7) oneiric; urgency=low
 
  -- Managed I.T. CI <ci@managedit.ie>  Thu, 24 Nov 2011 16:44:32 +0000
 
-nova (2011.3+201111241604-0mit1~12.gbpd0b0f7) oneiric; urgency=low
+nova (2011.3+201111241604-0mit1~12.gbpd0b0f7) oneiric; urgency=high
 
   ** SNAPSHOT build @d0b0f76b2b90866b20c2a7cd4d230308972d512a **
 
@@ -692,7 +703,7 @@ nova (2011.3+201111241604-0mit1~12.gbpd0b0f7) oneiric; urgency=low
 
  -- Managed I.T. CI <ci@managedit.ie>  Thu, 24 Nov 2011 16:42:39 +0000
 
-nova (2011.3+201111241604-0mit1~12.gbpd0b0f7) oneiric; urgency=low
+nova (2011.3+201111241604-0mit1~12.gbpd0b0f7) oneiric; urgency=high
 
   ** SNAPSHOT build @d0b0f76b2b90866b20c2a7cd4d230308972d512a **
 
@@ -762,7 +773,7 @@ nova (2011.3+201111241604-0mit1~12.gbpd0b0f7) oneiric; urgency=low
 
  -- Managed I.T. CI <ci@managedit.ie>  Thu, 24 Nov 2011 16:41:01 +0000
 
-nova (2011.3+201111241604-0mit1~12.gbpd0b0f7) oneiric; urgency=low
+nova (2011.3+201111241604-0mit1~12.gbpd0b0f7) oneiric; urgency=high
 
   ** SNAPSHOT build @d0b0f76b2b90866b20c2a7cd4d230308972d512a **
 
@@ -832,7 +843,7 @@ nova (2011.3+201111241604-0mit1~12.gbpd0b0f7) oneiric; urgency=low
 
  -- Managed I.T. CI <ci@managedit.ie>  Thu, 24 Nov 2011 16:39:21 +0000
 
-nova (2011.3+201111241604-0mit1~12.gbpd0b0f7) oneiric; urgency=low
+nova (2011.3+201111241604-0mit1~12.gbpd0b0f7) oneiric; urgency=high
 
   ** SNAPSHOT build @d0b0f76b2b90866b20c2a7cd4d230308972d512a **
 
@@ -902,80 +913,80 @@ nova (2011.3+201111241604-0mit1~12.gbpd0b0f7) oneiric; urgency=low
 
  -- Managed I.T. CI <ci@managedit.ie>  Thu, 24 Nov 2011 16:31:48 +0000
 
-nova (2011.3+20111111-0mit3) oneiric; urgency=low
+nova (2011.3+20111111-0mit3) oneiric; urgency=high
 
   * Fix nova-vncproxt upstart script
 
  -- Kiall Mac Innes <kiall@managedit.ie>  Mon, 14 Nov 2011 02:40:56 +0000
 
-nova (2011.3+20111111-0mit2) oneiric; urgency=low
+nova (2011.3+20111111-0mit2) oneiric; urgency=high
 
   * Add openstack-novnc dependency for nova-vncproxy package
 
  -- Kiall Mac Innes <kiall@managedit.ie>  Mon, 14 Nov 2011 01:33:59 +0000
 
-nova (2011.3+20111111-0mit1) oneiric; urgency=low
+nova (2011.3+20111111-0mit1) oneiric; urgency=high
 
   * New upstream version (fb898d6e12a64aef27b95e0c436c0475b3714e54)
   * Remove fix-autoassign-floating-ip.patch as its been merged upstream
 
  -- Kiall Mac Innes <kiall@managedit.ie>  Fri, 11 Nov 2011 12:49:43 +0000
 
-nova (2011.3+20111102-0mit4) oneiric; urgency=low
+nova (2011.3+20111102-0mit4) oneiric; urgency=high
 
   * Fixed issue with both tgt and iscsitarget being installed at the same time, preventing volumes from mounting correctly.
 
  -- Kiall Mac Innes <kiall@managedit.ie>  Thu, 10 Nov 2011 17:14:05 +0000
 
-nova (2011.3+20111102-0mit3) oneiric; urgency=low
+nova (2011.3+20111102-0mit3) oneiric; urgency=high
 
   * Test failures during build are no longer masked
 
  -- Kiall Mac Innes <kiall@managedit.ie>  Mon, 07 Nov 2011 01:11:04 +0000
 
-nova (2011.3+20111102-0mit2) oneiric; urgency=low
+nova (2011.3+20111102-0mit2) oneiric; urgency=high
 
   * Fix auto_assign_floating_ip crash
 
  -- Kiall Mac Innes <kiall@managedit.ie>  Fri, 04 Nov 2011 18:56:44 +0000
 
-nova (2011.3+20111102-0mit1) oneiric; urgency=low
+nova (2011.3+20111102-0mit1) oneiric; urgency=high
 
   * New upstream version (c206f73d03aa487868ba2acaa3581624160d1b67)
 
  -- Kiall Mac Innes <kiall@managedit.ie>  Wed, 02 Nov 2011 21:16:33 +0000
 
-nova (2011.3+20111025-0mit1) oneiric; urgency=low
+nova (2011.3+20111025-0mit1) oneiric; urgency=high
 
   * New upstream version (74ce079c65b4283de58d46cf63943db2860a06fe)
 
  -- Kiall Mac Innes <kiall@managedit.ie>  Tue, 25 Oct 2011 23:55:37 +0100
 
-nova (2011.3~20111020-0mit4) oneiric; urgency=low
+nova (2011.3~20111020-0mit4) oneiric; urgency=high
 
   * Addubg iscsitarget-dkms, iscsitarget as dep's for nova-volume
 
  -- Kiall Mac Innes <kiall@managedit.ie>  Mon, 24 Oct 2011 18:47:22 +0100
 
-nova (2011.3~20111020-0mit3) oneiric; urgency=low
+nova (2011.3~20111020-0mit3) oneiric; urgency=high
 
   * Adding AMI Snapshot Fix (Review 996)
 
  -- Kiall Mac Innes <kiall@managedit.ie>  Sun, 23 Oct 2011 11:27:20 +0100
 
-nova (2011.3~20111020-0mit2) oneiric; urgency=low
+nova (2011.3~20111020-0mit2) oneiric; urgency=high
 
   * Bump version for PPA rebuild.
 
  -- Kiall Mac Innes <kiall@managedit.ie>  Sat, 22 Oct 2011 06:53:40 +0100
 
-nova (2011.3~20111020-0mit1) oneiric; urgency=low
+nova (2011.3~20111020-0mit1) oneiric; urgency=high
 
   * New upstream version (1a5e3e0c4cc2a3bf55331d46f702b980af1fbf97)
 
  -- Kiall Mac Innes <kiall@managedit.ie>  Fri, 21 Oct 2011 01:41:34 +0100
 
-nova (2011.3-0ubuntu6.1) oneiric-proposed; urgency=low
+nova (2011.3-0ubuntu6.1) oneiric-proposed; urgency=high
 
   [Scott Moser]
   * Removed db_pool complexities from nova.db.sqlalchemy.session (LP: #838581)
@@ -988,14 +999,14 @@ nova (2011.3-0ubuntu6.1) oneiric-proposed; urgency=low
 
  -- Chuck Short <zulcss@ubuntu.com>  Wed, 12 Oct 2011 14:33:25 -0400
 
-nova (2011.3-0ubuntu6) oneiric; urgency=low
+nova (2011.3-0ubuntu6) oneiric; urgency=high
 
   * debian/patches/backport-libvirt-console-pipe.patch: 
     - Patch updated to fix race on instance termination (LP: #868349)
 
  -- Robie Basak <robie.basak@ubuntu.com>  Wed, 05 Oct 2011 17:37:49 +0100
 
-nova (2011.3-0ubuntu5) oneiric; urgency=low
+nova (2011.3-0ubuntu5) oneiric; urgency=high
 
   * debian/nova-common.postinst:
     - Set permissions recursively on /var/lib/nova to nova:nova for new
@@ -1006,7 +1017,7 @@ nova (2011.3-0ubuntu5) oneiric; urgency=low
 
  -- James Page <james.page@ubuntu.com>  Tue, 04 Oct 2011 09:43:55 +0100
 
-nova (2011.3-0ubuntu4) oneiric; urgency=low
+nova (2011.3-0ubuntu4) oneiric; urgency=high
 
   [James Page]
   * debian/nova-common.postinst:
@@ -1037,7 +1048,7 @@ nova (2011.3-0ubuntu4) oneiric; urgency=low
 
  -- Chuck Short <zulcss@ubuntu.com>  Fri, 30 Sep 2011 15:21:56 -0400
 
-nova (2011.3-0ubuntu3) oneiric; urgency=low
+nova (2011.3-0ubuntu3) oneiric; urgency=high
 
   [Adam Gandelman]
   * debian/nova-common.postinst: Create 'nova' group, add user to it
@@ -1057,7 +1068,7 @@ nova (2011.3-0ubuntu3) oneiric; urgency=low
 
  -- Chuck Short <zulcss@ubuntu.com>  Tue, 27 Sep 2011 14:56:59 -0400
 
-nova (2011.3-0ubuntu2) oneiric; urgency=low
+nova (2011.3-0ubuntu2) oneiric; urgency=high
 
   [Chuck Short]
   * debian/rules, debian/control: Use dh_python2
@@ -1077,7 +1088,7 @@ nova (2011.3-0ubuntu2) oneiric; urgency=low
 
  -- Chuck Short <zulcss@ubuntu.com>  Fri, 23 Sep 2011 13:34:51 -0400
 
-nova (2011.3-0ubuntu1) oneiric; urgency=low
+nova (2011.3-0ubuntu1) oneiric; urgency=high
 
   [Chuck Short]
   * New upstream release.
@@ -1091,7 +1102,7 @@ nova (2011.3-0ubuntu1) oneiric; urgency=low
 
  -- Chuck Short <zulcss@ubuntu.com>  Thu, 22 Sep 2011 09:33:49 -0400
 
-nova (2011.3~rc~20110920.r1192-0ubuntu2) oneiric; urgency=low
+nova (2011.3~rc~20110920.r1192-0ubuntu2) oneiric; urgency=high
 
   * debian/nova_sudoers:
     + Fix typo in nova_sudoers. 
@@ -1101,7 +1112,7 @@ nova (2011.3~rc~20110920.r1192-0ubuntu2) oneiric; urgency=low
   
  -- Chuck Short <zulcss@ubuntu.com>  Tue, 20 Sep 2011 15:44:39 -0400
 
-nova (2011.3~rc~20110920.r1192-0ubuntu1) oneiric; urgency=low
+nova (2011.3~rc~20110920.r1192-0ubuntu1) oneiric; urgency=high
 
   [Chuck Short]
   * New Upstream release.
@@ -1115,7 +1126,7 @@ nova (2011.3~rc~20110920.r1192-0ubuntu1) oneiric; urgency=low
 
  -- Chuck Short <zulcss@ubuntu.com>  Tue, 20 Sep 2011 10:02:04 -0400
 
-nova (2011.3~rc~20110916.r1173-0ubuntu1) oneiric; urgency=low
+nova (2011.3~rc~20110916.r1173-0ubuntu1) oneiric; urgency=high
 
   [ Chuck Short ]
   * New uptream version. 
@@ -1126,13 +1137,13 @@ nova (2011.3~rc~20110916.r1173-0ubuntu1) oneiric; urgency=low
 
  -- Monty Taylor <mordred@inaugust.com>  Mon, 19 Sep 2011 17:03:29 -0400
 
-nova (2011.3~rc~20110909.r1155-0ubuntu1) oneiric; urgency=low
+nova (2011.3~rc~20110909.r1155-0ubuntu1) oneiric; urgency=high
 
   * New upstream version. 
 
  -- Chuck Short <zulcss@ubuntu.com>  Fri, 09 Sep 2011 15:09:02 -0400
 
-nova (2011.3~rc~20110901.1523-0ubuntu1) oneiric; urgency=low
+nova (2011.3~rc~20110901.1523-0ubuntu1) oneiric; urgency=high
 
   [ Chuck Short ]
   * Really remove python-ipy.
@@ -1152,7 +1163,7 @@ nova (2011.3~rc~20110901.1523-0ubuntu1) oneiric; urgency=low
 
  -- Chuck Short <zulcss@ubuntu.com>  Fri, 02 Sep 2011 13:21:22 -0400
 
-nova (2011.3~d4-0ubuntu1) oneiric; urgency=low
+nova (2011.3~d4-0ubuntu1) oneiric; urgency=high
 
   [Chuck Short]
   * New upstream release.
@@ -1162,7 +1173,7 @@ nova (2011.3~d4-0ubuntu1) oneiric; urgency=low
 
  -- Chuck Short <zulcss@ubuntu.com>  Fri, 26 Aug 2011 13:31:14 -0400
 
-nova (2011.3~d4~20110812.1417-0ubuntu1) oneiric; urgency=low
+nova (2011.3~d4~20110812.1417-0ubuntu1) oneiric; urgency=high
 
   [Chuck Short]
   * New upstream version
@@ -1207,7 +1218,7 @@ nova (2011.3~d4~20110812.1417-0ubuntu1) oneiric; urgency=low
 
  -- Chuck Short <zulcss@ubuntu.com>  Fri, 12 Aug 2011 03:12:38 -0400
 
-nova (2011.3~d1-0ubuntu1) oneiric; urgency=low
+nova (2011.3~d1-0ubuntu1) oneiric; urgency=high
 
   [Chuck Short]
   * New upstream version.
@@ -1221,7 +1232,7 @@ nova (2011.3~d1-0ubuntu1) oneiric; urgency=low
 
  -- Chuck Short <zulcss@ubuntu.com>  Thu, 02 Jun 2011 09:30:39 -0400
 
-nova (2011.3~bzr1108-0ubuntu1) oneiric; urgency=low
+nova (2011.3~bzr1108-0ubuntu1) oneiric; urgency=high
 
   [ Thomas Goirand ]
   * Removes embedded jquery.js from nova-doc package.
@@ -1256,13 +1267,13 @@ nova (2011.3~bzr1108-0ubuntu1) oneiric; urgency=low
 
  -- Soren Hansen <soren@ubuntu.com>  Wed, 25 May 2011 15:57:03 +0200
 
-nova (2011.2-0ubuntu1) natty; urgency=low
+nova (2011.2-0ubuntu1) natty; urgency=high
 
   * New upstream release. 
 
  -- Chuck Short <zulcss@ubuntu.com>  Fri, 15 Apr 2011 07:14:43 -0400
 
-nova (2011.2~gamma1-0ubuntu1) natty; urgency=low
+nova (2011.2~gamma1-0ubuntu1) natty; urgency=high
 
   [Chuck Short]
   * New upstream release.
@@ -1283,7 +1294,7 @@ nova (2011.2~gamma1-0ubuntu1) natty; urgency=low
 
  -- Chuck Short <zulcss@ubuntu.com>  Fri, 08 Apr 2011 10:49:10 -0400
 
-nova (2011.2~bzr925-0ubuntu1) natty; urgency=low
+nova (2011.2~bzr925-0ubuntu1) natty; urgency=high
 
   [Chuck Short]
   * New upstream release.
@@ -1308,14 +1319,14 @@ nova (2011.2~bzr925-0ubuntu1) natty; urgency=low
 
  -- Chuck Short <zulcss@ubuntu.com>  Thu, 31 Mar 2011 11:25:10 -0400
 
-nova (2011.2~bzr828-0ubuntu1) natty; urgency=low
+nova (2011.2~bzr828-0ubuntu1) natty; urgency=high
 
   * New upstream version. 
   * debian/control: Add python-lockfile as a build dependency.
 
  -- Chuck Short <zulcss@ubuntu.com>  Fri, 18 Mar 2011 09:28:17 -0400
 
-nova (2011.2~bzr786-0ubuntu1) natty; urgency=low
+nova (2011.2~bzr786-0ubuntu1) natty; urgency=high
 
   [Chuck Short]
   * New upstream version.
@@ -1332,7 +1343,7 @@ nova (2011.2~bzr786-0ubuntu1) natty; urgency=low
 
  -- Chuck Short <zulcss@ubuntu.com>  Fri, 11 Mar 2011 09:41:45 -0500
 
-nova (2011.2~bzr760-0ubuntu1) natty; urgency=low
+nova (2011.2~bzr760-0ubuntu1) natty; urgency=high
 
   [Chuck Short]
   * New upstream version.
@@ -1349,7 +1360,7 @@ nova (2011.2~bzr760-0ubuntu1) natty; urgency=low
 
  -- Chuck Short <zulcss@ubuntu.com>  Fri, 04 Mar 2011 10:19:52 -0500
 
-nova (2011.2~bzr700-0ubuntu1) natty; urgency=low
+nova (2011.2~bzr700-0ubuntu1) natty; urgency=high
 
   [ Chuck Short ]
   * New upstream version.
@@ -1364,7 +1375,7 @@ nova (2011.2~bzr700-0ubuntu1) natty; urgency=low
 
  -- Chuck Short <zulcss@ubuntu.com>  Fri, 18 Feb 2011 09:36:22 -0500
 
-nova (2011.2~bzr663-0ubuntu1) natty; urgency=low
+nova (2011.2~bzr663-0ubuntu1) natty; urgency=high
 
   [ Chuck Short ]
   * New upstream verison.
@@ -1376,13 +1387,13 @@ nova (2011.2~bzr663-0ubuntu1) natty; urgency=low
 
  -- Chuck Short <zulcss@ubuntu.com>  Fri, 11 Feb 2011 10:27:54 -0500
 
-nova (2011.1-0ubuntu2) natty; urgency=low
+nova (2011.1-0ubuntu2) natty; urgency=high
 
   * Dont fail unittest because of buildd problems. 
 
  -- Chuck Short <zulcss@ubuntu.com>  Thu, 03 Feb 2011 07:26:54 -0500
 
-nova (2011.1-0ubuntu1) natty; urgency=low
+nova (2011.1-0ubuntu1) natty; urgency=high
 
   * New upstream release.
   * Add recommends to python-mysqldb (LP: #708511)
@@ -1392,13 +1403,13 @@ nova (2011.1-0ubuntu1) natty; urgency=low
 
  -- Chuck Short <zulcss@ubuntu.com>  Thu, 03 Feb 2011 07:00:52 -0500
 
-nova (2011.1~bzr638-0ubuntu1) natty; urgency=low
+nova (2011.1~bzr638-0ubuntu1) natty; urgency=high
 
   * New upstream snapshot. 
 
  -- Chuck Short <zulcss@ubuntu.com>  Fri, 28 Jan 2011 13:41:00 -0500
 
-nova (2011.1~bzr597-0ubuntu1) natty; urgency=low
+nova (2011.1~bzr597-0ubuntu1) natty; urgency=high
 
   [ Chuck Short ]
   * New upstream snapshot.
@@ -1447,7 +1458,7 @@ nova (2011.1~bzr597-0ubuntu1) natty; urgency=low
 
  -- Thierry Carrez (ttx) <thierry@openstack.org>  Mon, 24 Jan 2011 14:32:19 +0100
 
-nova (2011.1~bzr456-0ubuntu1) natty; urgency=low
+nova (2011.1~bzr456-0ubuntu1) natty; urgency=high
 
   [ Chuck Short ]
   * New upstream snapshot.
@@ -1464,7 +1475,7 @@ nova (2011.1~bzr456-0ubuntu1) natty; urgency=low
 
  -- Chuck Short <zulcss@ubuntu.com>  Mon, 13 Dec 2010 10:17:01 -0500
 
-nova (2011.1~bzr412-0ubuntu1) natty; urgency=low
+nova (2011.1~bzr412-0ubuntu1) natty; urgency=high
 
   [ Soren Hansen ]
   * New upstream snapshot.
@@ -1498,14 +1509,14 @@ nova (2011.1~bzr412-0ubuntu1) natty; urgency=low
 
  -- Soren Hansen <soren@ubuntu.com>  Tue, 23 Nov 2010 11:17:09 +0100
 
-nova (0.9.1~bzr331-0ubuntu2) maverick; urgency=low
+nova (0.9.1~bzr331-0ubuntu2) maverick; urgency=high
 
   * Add a minimal patch to ensure a string gets returned as an
     instance's internal ID. (LP: #657053)
 
  -- Soren Hansen <soren@ubuntu.com>  Fri, 08 Oct 2010 23:16:58 +0200
 
-nova (0.9.1~bzr331-0ubuntu1) maverick; urgency=low
+nova (0.9.1~bzr331-0ubuntu1) maverick; urgency=high
 
   [ Soren Hansen ]
   * New upstream snapshot (FFe ref: LP #645936)
@@ -1528,7 +1539,7 @@ nova (0.9.1~bzr331-0ubuntu1) maverick; urgency=low
 
  -- Soren Hansen <soren@ubuntu.com>  Tue, 21 Sep 2010 16:36:37 +0200
 
-nova (0.9.1~bzr265-0ubuntu1) maverick; urgency=low
+nova (0.9.1~bzr265-0ubuntu1) maverick; urgency=high
 
   * New upstream snapshot (FFe: LP: #628027)
   * Install uml libvirt xml file.
@@ -1551,13 +1562,13 @@ nova (0.9.1~bzr265-0ubuntu1) maverick; urgency=low
 
  -- Soren Hansen <soren@ubuntu.com>  Tue, 07 Sep 2010 13:12:10 +0200
 
-nova (0.9.1~bzr204-0ubuntu2) maverick; urgency=low
+nova (0.9.1~bzr204-0ubuntu2) maverick; urgency=high
 
   * Make sure debian/start-redis is executable.
 
  -- Soren Hansen <soren@ubuntu.com>  Sat, 07 Aug 2010 11:38:30 +0200
 
-nova (0.9.1~bzr204-0ubuntu1) maverick; urgency=low
+nova (0.9.1~bzr204-0ubuntu1) maverick; urgency=high
 
   * First OpenStack release.
 

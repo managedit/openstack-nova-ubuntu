@@ -1,3 +1,29 @@
+nova (2011.3+20111209~0001-0mit1~29.gbp899277) oneiric; urgency=low
+
+  ** SNAPSHOT build @899277303450d1d96dd835e80c0a076ad5e89c18 **
+
+  [ Ewan Mellor ]
+  * [39fdf335] nova-manage: exit with status 1 if an image registration fails
+
+  [ Kevin L. Mitchell ]
+  * [d565f3ad] Fix a notification bug when creating instances
+
+  [ Vishvananda Ishaya ]
+  * [e9f427fc] Makes sure gateways forward properly
+
+  [ Nachi Ueno ]
+  * [a6aee738] Fixes bug 886263.
+
+  [ Brad Hall ]
+  * [18d0c9a5] Fix for bug 894431
+
+  [ Ewan Mellor ]
+  * [c733462b] Bug #897091: "nova actions" fails with HTTP 400 / TypeError if a server action has been performed
+
+  [ Managed I.T. CI ]
+
+ -- Managed I.T. CI <ci@managedit.ie>  Fri, 09 Dec 2011 00:01:11 +0000
+
 nova (2011.3+20111130~1910-0mit1~28.gbp1e3b88) oneiric; urgency=high
 
   ** SNAPSHOT build @1e3b88ba20b9f9ab925ecd1238845adbc0157cb1 **

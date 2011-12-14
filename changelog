@@ -1,3 +1,17 @@
+nova (2011.3+20111214~0001-0mit1~30.gbp18a5ca) oneiric; urgency=low
+
+  ** SNAPSHOT build @18a5ca1c20729e4f3309dc1785999ecf3255616f **
+
+  [ Thierry Carrez ]
+  * [76363226] Sanitize EC2 manifests and image tarballs
+
+  [ James E. Blair ]
+  * [18a5ca1c] Rename .nova-venv to .venv.
+
+  [ Managed I.T. CI ]
+
+ -- Managed I.T. CI <ci@managedit.ie>  Wed, 14 Dec 2011 00:01:18 +0000
+
 nova (2011.3+20111209~0001-0mit1~29.gbp899277) oneiric; urgency=low
 
   ** SNAPSHOT build @899277303450d1d96dd835e80c0a076ad5e89c18 **

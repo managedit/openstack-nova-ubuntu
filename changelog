@@ -1,3 +1,17 @@
+nova (2011.3+20111215~0001-0mit1~31.gbpd3f32f) oneiric; urgency=low
+
+  ** SNAPSHOT build @d3f32f742c1622f2d8b4b6fc5f42b04ea5da5664 **
+
+  [ Kevin L. Mitchell ]
+  * [d2ae5bef] Fix a minor memory leak
+
+  [ Thierry Carrez ]
+  * [98877f9c] Fix issue in test_s3_malicious_tarballs
+
+  [ Managed I.T. CI ]
+
+ -- Managed I.T. CI <ci@managedit.ie>  Thu, 15 Dec 2011 00:01:22 +0000
+
 nova (2011.3+20111214~0001-0mit1~30.gbp18a5ca) oneiric; urgency=low
 
   ** SNAPSHOT build @18a5ca1c20729e4f3309dc1785999ecf3255616f **

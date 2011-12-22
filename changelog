@@ -1,3 +1,32 @@
+nova (2011.3+20111222~0001-0mit1~33.gbpfedbce) oneiric; urgency=low
+
+  ** SNAPSHOT build @fedbce7d7139ca0c9fcd2de8103f2f9f7c1f0058 **
+
+  [ Dan Prince ]
+  * [d05c2e6d] Update exception.wrap_exception so that all exceptions (not just Error and NovaException types) get logged correctly.
+
+  [ Aaron Lee ]
+  * [094ea6bf] Move failed instances to error state
+
+  [ Jason Kölker ]
+  * [5423f1a8] Fixes LP878319
+
+  [ Alvaro Lopez ]
+  * [60cb0496] Fixes bug 871877
+
+  [ David Subiros ]
+  * [ce4ea1f3] fix rebuild sha1 not string error
+
+  [ Jesse Andrews ]
+  * [78e81f1b] removed logic of throwing exception if no floating ip
+
+  [ Ollie Leahy ]
+  * [5d319531] Fixes bug 888649
+
+  [ Managed I.T. CI ]
+
+ -- Managed I.T. CI <ci@managedit.ie>  Thu, 22 Dec 2011 00:01:52 +0000
+
 nova (2011.3+20111221~0016-0mit1~32.gbpd3f32f) oneiric; urgency=low
 
   ** SNAPSHOT build @d3f32f742c1622f2d8b4b6fc5f42b04ea5da5664 **

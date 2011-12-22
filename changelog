@@ -1,3 +1,11 @@
+nova (2011.3+20111222~1653-0mit1~35.gbpfedbce) oneiric; urgency=low
+
+  ** SNAPSHOT build @fedbce7d7139ca0c9fcd2de8103f2f9f7c1f0058 **
+
+  * UNRELEASED
+
+ -- Managed I.T. CI <ci@managedit.ie>  Thu, 22 Dec 2011 16:53:22 +0000
+
 nova (2011.3+20111222~1623-0mit1~34.gbpfedbce) oneiric; urgency=low
 
   ** SNAPSHOT build @fedbce7d7139ca0c9fcd2de8103f2f9f7c1f0058 **

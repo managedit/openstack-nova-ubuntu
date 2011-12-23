@@ -1,3 +1,20 @@
+nova (2011.3+20111223~1408-0mit1~36.gbpe986fa) oneiric; urgency=low
+
+  ** SNAPSHOT build @e986fa741123af5f2755fe5cf7596ce7ae66e971 **
+
+  [ Ahmad Hassan ]
+  * [bcf24125] Verify security group parameters
+
+  [ Ewan Mellor ]
+  * [1270e11e] Bug #886353: Faults raised by OpenStack API Resource handlers fail to be reported properly
+
+  [ Alvaro Lopez Garcia ]
+  * [add84707] Fixes bug 767947
+
+  [ Managed I.T. CI ]
+
+ -- Managed I.T. CI <ci@managedit.ie>  Fri, 23 Dec 2011 14:08:29 +0000
+
 nova (2011.3+20111222~1653-0mit1~35.gbpfedbce) oneiric; urgency=low
 
   ** SNAPSHOT build @fedbce7d7139ca0c9fcd2de8103f2f9f7c1f0058 **

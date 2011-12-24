@@ -1,3 +1,14 @@
+nova (2011.3+20111224~0001-0mit1~37.gbpb4cfd9) oneiric; urgency=low
+
+  ** SNAPSHOT build @b4cfd9ab1b78d8926072615d21cb7bd430b38612 **
+
+  [ Chris Behrens ]
+  * [475f3624] Fix RPC responses to allow None response correctly.
+
+  [ Managed I.T. CI ]
+
+ -- Managed I.T. CI <ci@managedit.ie>  Sat, 24 Dec 2011 00:01:08 +0000
+
 nova (2011.3+20111223~1408-0mit1~36.gbpe986fa) oneiric; urgency=low
 
   ** SNAPSHOT build @e986fa741123af5f2755fe5cf7596ce7ae66e971 **

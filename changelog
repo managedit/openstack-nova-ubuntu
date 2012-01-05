@@ -1,3 +1,14 @@
+nova (2011.3+20120105~0001-0mit1~39.gbpc06787) oneiric; urgency=low
+
+  ** SNAPSHOT build @c067876e587ac55cd139f054900ca5219089ae22 **
+
+  [ Mandell Degerness ]
+  * [c067876e] Fix to correctly report memory on Linux 3.X.
+
+  [ Managed I.T. CI ]
+
+ -- Managed I.T. CI <ci@managedit.ie>  Thu, 05 Jan 2012 00:01:49 +0000
+
 nova (2011.3+20111224~0133-0mit1~38.gbpb4cfd9) oneiric; urgency=low
 
   ** SNAPSHOT build @b4cfd9ab1b78d8926072615d21cb7bd430b38612 **

@@ -1,3 +1,27 @@
+nova (2011.3+20120106~0001-0mit1~40.gbpe16db2) oneiric; urgency=low
+
+  ** SNAPSHOT build @e16db22d266d7c7e6a8809456d9629aed45e3799 **
+
+  [ Joe Gordon ]
+  * [400095e7] Add Support to delete VMs in error state.
+
+  [ Scott Moser ]
+  * [abea7aac] avoid error and trace on dom.vcpus() in lxc
+
+  [ Ivan Kolodyazhny ]
+  * [1085e9d0] Bug 751229: Floating address range fixed
+  * [fc375828] Bug 820059: bin/nova-manage.py VpnCommands.spawn calls non-existant method VpnCommands._vpn_for - fixed
+
+  [ François Charlier ]
+  * [43e0b44d] Pass '-r' option to 'collie cluster status'.
+
+  [ David Subiros ]
+  * [7e4e216e] Fixing snapshot failure task_state
+
+  [ Managed I.T. CI ]
+
+ -- Managed I.T. CI <ci@managedit.ie>  Fri, 06 Jan 2012 00:01:11 +0000
+
 nova (2011.3+20120105~0001-0mit1~39.gbpc06787) oneiric; urgency=low
 
   ** SNAPSHOT build @c067876e587ac55cd139f054900ca5219089ae22 **

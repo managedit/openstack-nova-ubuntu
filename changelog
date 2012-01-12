@@ -1,3 +1,24 @@
+nova (2011.3+20120112~0001-0mit1~41.gbp0e56a2) oneiric; urgency=low
+
+  ** SNAPSHOT build @0e56a27dffd5207c22d8e0539a6a9e8e9baec063 **
+
+  [ Dan Prince ]
+  * [50f82d19] Set instance['host'] to the original host value on revert resize.
+
+  [ Joe Gordon ]
+  * [8c48fa52] Cherry-Pick: fix bug 914049: private key in log
+
+  [ Thierry Carrez ]
+  * [3d4ffb64] Do not overwrite project_id from request params
+
+  [ Mark McLoughlin ]
+  * [fa98c2db] Add optional revision field to version number
+  * [0e56a27d] Prepare for the 2011.3.1
+
+  [ Managed I.T. CI ]
+
+ -- Managed I.T. CI <ci@managedit.ie>  Thu, 12 Jan 2012 00:01:42 +0000
+
 nova (2011.3+20120106~0001-0mit1~40.gbpe16db2) oneiric; urgency=low
 
   ** SNAPSHOT build @e16db22d266d7c7e6a8809456d9629aed45e3799 **

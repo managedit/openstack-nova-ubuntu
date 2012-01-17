@@ -1,3 +1,17 @@
+nova (2011.3.1~20120117~1549-0mit1~43.gbpce3d3b) oneiric; urgency=medium
+
+  ** SNAPSHOT build @ce3d3b2b133f1a178ce5a782b490c265a2c7fbce **
+
+  [ François Charlier ]
+  * [a224f679] Fix bug 901899
+
+  [ Armando Migliaccio ]
+  * [3bcd2721] Bug #894683: nova.service does not handle attribute specific exceptions and client hangs
+
+  [ Managed I.T. CI ]
+
+ -- Managed I.T. CI <ci@managedit.ie>  Tue, 17 Jan 2012 15:49:44 +0000
+
 nova (2011.3.1~20120117~1220-0mit1~42.gbp9794b7) oneiric; urgency=medium
 
   ** SNAPSHOT build @9794b75edde13b6694ee7aa0794b3e6966774d52 **

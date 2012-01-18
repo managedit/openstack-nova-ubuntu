@@ -1,3 +1,14 @@
+nova (2011.3.1~20120118~0000-0mit1~44.gbpc22ab8) oneiric; urgency=medium
+
+  ** SNAPSHOT build @c22ab8ad264676f19789022cf20e6b1866d698f3 **
+
+  [ Mark McLoughlin ]
+  * [c7a9d522] Add missing scripts to setup.py (lp#917676)
+
+  [ Managed I.T. CI ]
+
+ -- Managed I.T. CI <ci@managedit.ie>  Wed, 18 Jan 2012 00:00:56 +0000
+
 nova (2011.3.1~20120117~1549-0mit1~43.gbpce3d3b) oneiric; urgency=medium
 
   ** SNAPSHOT build @ce3d3b2b133f1a178ce5a782b490c265a2c7fbce **

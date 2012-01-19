@@ -1,3 +1,11 @@
+nova (2011.3.1-0mit1~46.gbpc22ab8) oneiric; urgency=medium
+
+  ** SNAPSHOT build @c22ab8ad264676f19789022cf20e6b1866d698f3 **
+
+  * UNRELEASED
+
+ -- Managed I.T. CI <ci@managedit.ie>  Thu, 19 Jan 2012 18:34:23 +0000
+
 nova (2011.3.1~20120119~1832-0mit1~45.gbpc22ab8) oneiric; urgency=medium
 
   ** SNAPSHOT build @c22ab8ad264676f19789022cf20e6b1866d698f3 **

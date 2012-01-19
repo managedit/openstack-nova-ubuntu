@@ -1,3 +1,14 @@
+nova (2011.3.1-0mit1~48.gbp2210b0) oneiric; urgency=medium
+
+  ** SNAPSHOT build @2210b0796bf0b905ee5956a0b526b07eaae86709 **
+
+  [ Mark McLoughlin ]
+  * [2210b079] Final versioning for 2011.3.1
+
+  [ Managed I.T. CI ]
+
+ -- Managed I.T. CI <ci@managedit.ie>  Thu, 19 Jan 2012 19:20:57 +0000
+
 nova (2011.3.1-0mit1~46.gbpc22ab8) oneiric; urgency=medium
 
   ** SNAPSHOT build @c22ab8ad264676f19789022cf20e6b1866d698f3 **

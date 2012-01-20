@@ -1,3 +1,14 @@
+nova (2011.3.2~20120120~0001-0mit1~49.gbp9faf92) oneiric; urgency=medium
+
+  ** SNAPSHOT build @9faf9252b2598c4c0214abd91e2dd4b3f2819e1b **
+
+  [ Mark McLoughlin ]
+  * [9faf9252] Open 2011.3.2 development
+
+  [ Managed I.T. CI ]
+
+ -- Managed I.T. CI <ci@managedit.ie>  Fri, 20 Jan 2012 00:01:05 +0000
+
 nova (2011.3.1-0mit1~48.gbp2210b0) oneiric; urgency=medium
 
   ** SNAPSHOT build @2210b0796bf0b905ee5956a0b526b07eaae86709 **

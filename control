@@ -325,6 +325,7 @@ Description: OpenStack Compute - VNC proxy
 Package: nova-api
 Architecture: all
 Depends: ${ostack-lsb-base}, nova-common (= ${binary:Version}), ${python:Depends}, ${misc:Depends}
+Suggests: openstackx
 Description: OpenStack Compute - API frontend
  OpenStack is a reliable cloud infrastructure. Its mission is to produce
  the ubiquitous cloud computing platform that will meet the needs of public
